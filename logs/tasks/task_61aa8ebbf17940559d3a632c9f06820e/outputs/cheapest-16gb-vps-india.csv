@@ -1,0 +1,11 @@
+Provider,Plan,RAM_GB,vCPU,Storage,Location,Price_INR_per_month,Currency,Billing_Term,Notes,Source_URL,Verified_UTC
+Host IT Smart,VPS - SM 3,16,4,200 GB SSD,India,730,INR,24-month prepay,"₹17,520 for 24 months; +18% GST = ₹20,673.60 (₹861.40/mo over 24 mo; ₹689.12/mo over 30 mo with +6 extra months); renews ₹1,630/mo",https://www.hostitsmart.com/servers/vps-hosting,2026-11-25T18:54Z
+VisiHost,Intel Xeon L,16,6,150 GB NVMe,Noida India,899,INR,monthly,"Subtotal ₹899.00 + 2% gateway fee ₹17.98 = ₹916.98 today; reading from checkout page",https://billing.visihost.in/products/vps-hosting-india/intel-xeon-l/checkout,2026-11-25T18:54Z
+Matrix Host,Intel Platinum 16 GB,16,4,80 GB SSD,Noida India,999,INR,monthly,"Yearly 15% off ≈ ₹849.15/mo (₹10,189.80/yr); Intel Platinum, DDR4 ECC, NVMe 4.0",https://matrixhost.in/vps/16gb-ram,2026-11-25T18:54Z
+Kinetix Compute,16 GB NVMe plan,16,,320 GB NVMe,Mumbai / Noida India,999,INR,monthly,"vCPU count not shown on the page text captured; Gen4 NVMe, ECC memory",https://kinetixcompute.in/,2026-11-25T18:54Z
+SkyRainCloud,Intel Platinum 8269CY 16 GB,16,4,200 GB SSD,India,1169,INR,monthly,"16 GB DDR4 ECC; 4 vCore Intel Platinum 8269CY; 1 Gbps port",https://www.skyraincloud.in/services/vps/16gb-vps-hosting-india,2026-11-25T18:54Z
+Host.co.in,SM-V3,16,4,250 GB NVMe,India,1299,INR,monthly,"50% off (list ₹2,599); 4th Gen AMD EPYC; 3 TB bandwidth; DDR5",https://www.host.co.in/hosting/vps-hosting,2026-11-25T18:54Z
+AquaHost,Infinity VPS,16,8,300 GB,India,1799,INR,monthly,"8 Core; 100 Mbps; IPv4",https://aquahost.in/indian-vps,2026-11-25T18:54Z
+AIC Cloud,India 16 GB,16,4,160 GB NVMe,Mumbai India,2049,INR,monthly,"Includes dedicated IPv4 + daily backup",https://aiccloud.in/vps-hosting-mumbai,2026-11-25T18:54Z
+Inservers,IN-LITE,16,6,160 GB NVMe,Greater Noida India,3600,INR,monthly,"AMD EPYC 7C13; +18% GST; 1 Gbps port + static IPv4",https://inservers.com/vps/india,2026-11-25T18:54Z
+Rackyard,VPS 16 GB,16,4,80 GB,Delhi India,12.56,USD,monthly,"30% Black Friday sale; regular $17.93; renewals keep sale price (sale ends 27 Nov); Intel Xeon Gold 6138; 1 TB transfer",https://billing.rackyard.cloud/products/vps-delhi-xeon/vps-16gb,2026-11-25T18:54Z

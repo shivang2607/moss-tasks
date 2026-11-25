@@ -1,0 +1,58 @@
+{
+  "id": "task_eeaebb870aa142df97e3aa10d754a2be",
+  "object": "task",
+  "status": "completed",
+  "title": "Find cheapest 16GB VPS India",
+  "goal": "Find me the cheapest VPS for a 16GB ram in india",
+  "environment": {
+    "type": "browser"
+  },
+  "output_schema": null,
+  "limits": {
+    "max_cost_usd": 2.0,
+    "max_runtime_seconds": 1800
+  },
+  "model": "moss-balanced",
+  "effort": "medium",
+  "metadata": null,
+  "byok": false,
+  "result": {
+    "output": null,
+    "output_text": "We compared **16 GB RAM VPS offers with India hosting** from Host IT Smart, Matrix Host, Hostinger, Getwebup, and BigRock. Location or billing details that remained unconfirmed are flagged in the report.\n\n**Cheapest found among the plans checked:** [Host IT Smart VPS – SM 3](https://www.hostitsmart.com/servers/vps-hosting).\n\n- **Specs:** 4 vCPU, 16 GB RAM, 200 GB SSD, 16 TB bandwidth; self-managed Linux.\n- **Initial payment:** ₹17,520 before GST for 24 months, plus six bonus months. The configuration page confirmed “We've added 6 extra months to your 2-year VPS plan” and “18% GST will be applicable”.\n- **Calculated total:** ₹20,673.60 including GST, equivalent to **₹689.12/month over the initial 30 months**. This requires upfront payment, not monthly billing.\n- **Advertised renewal:** ₹1,630/month before GST.\n- **Location:** The provider states an Indian data center; the exact city was not established.\n\nFor monthly billing, [Matrix Host](https://matrixhost.in/vps/16gb-ram) was the lowest candidate found at **₹999/month before taxes** in Noida. Its higher renewal price remains unconfirmed because the order page required login.\n\nThe [full comparison and source/access notes](outputs/india-16gb-vps.md) are saved. Access issues were resolved using the correct Getwebup URL and browser access for BigRock; the report documents those retries. No account was created, payment entered, or order submitted."
+  },
+  "verification": {
+    "method": "agent_reported",
+    "passed": null
+  },
+  "usage": {
+    "cost": {
+      "model_usd": 0.524223,
+      "total_usd": 0.52589,
+      "browser_usd": 0.0016666666666666668,
+      "traffic_usd": null
+    },
+    "steps": 36,
+    "cost_usd": 0.524223,
+    "model_calls": 38,
+    "input_tokens": 1313363,
+    "output_tokens": 9115,
+    "browser_minutes": 4.43,
+    "browser_seconds": 266,
+    "browser_traffic_mb": null,
+    "cached_input_tokens": 1223417
+  },
+  "error": null,
+  "trace_available": true,
+  "video_available": true,
+  "video_state": "ready",
+  "live_url": null,
+  "cancel_requested": false,
+  "created_at": "2026-11-25T18:35:01.405121+00:00",
+  "started_at": "2026-11-25T18:35:01.418971+00:00",
+  "finished_at": "2026-11-25T18:39:29.940051+00:00",
+  "files_expire_at": "2026-12-02T18:39:29.940051+00:00",
+  "zero_data_retention": false,
+  "content_expires_at": null,
+  "content_deleted_at": null,
+  "webhook": null
+}

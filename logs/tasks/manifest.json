@@ -1,0 +1,39 @@
+[
+  {
+    "id": "task_61aa8ebbf17940559d3a632c9f06820e",
+    "title": "Find cheapest 16GB VPS India",
+    "status": "completed",
+    "created_at": "2026-11-25T18:45:41.867538+00:00",
+    "steps": 78,
+    "timeline_events": 83,
+    "screenshots_listed": 68,
+    "text_outputs": [
+      "task_61aa8ebbf17940559d3a632c9f06820e/outputs/cheapest-16gb-vps-india.csv",
+      "task_61aa8ebbf17940559d3a632c9f06820e/outputs/cheapest-16gb-vps-india.md"
+    ]
+  },
+  {
+    "id": "task_eeaebb870aa142df97e3aa10d754a2be",
+    "title": "Find cheapest 16GB VPS India",
+    "status": "completed",
+    "created_at": "2026-11-25T18:35:01.405121+00:00",
+    "steps": 36,
+    "timeline_events": 49,
+    "screenshots_listed": 22,
+    "text_outputs": [
+      "task_eeaebb870aa142df97e3aa10d754a2be/outputs/india-16gb-vps.md"
+    ]
+  },
+  {
+    "id": "task_cab0189f6bd346bdad42733a0ce05bd8",
+    "title": "Find System Design Interview Book",
+    "status": "completed",
+    "created_at": "2026-11-25T18:29:33.915950+00:00",
+    "steps": 17,
+    "timeline_events": 20,
+    "screenshots_listed": 9,
+    "text_outputs": [
+      "task_cab0189f6bd346bdad42733a0ce05bd8/outputs/alex-xu-system-design-guide.md"
+    ]
+  }
+]

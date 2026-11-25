@@ -1,0 +1,49 @@
+{
+  "object": "list",
+  "data": [
+    {
+      "path": "outputs/alex-xu-system-design-guide.md",
+      "bytes": 3175
+    },
+    {
+      "path": "screenshots/agent/ses_dec0793f6ffe0Z2d5DzGGrLNmW-1795631435693-000.png",
+      "bytes": 597364
+    },
+    {
+      "path": "screenshots/runner/00001-step-3.png",
+      "bytes": 451134
+    },
+    {
+      "path": "screenshots/runner/00002-step-6.png",
+      "bytes": 450290
+    },
+    {
+      "path": "screenshots/runner/00003-step-7.png",
+      "bytes": 468030
+    },
+    {
+      "path": "screenshots/runner/00004-step-10.png",
+      "bytes": 503787
+    },
+    {
+      "path": "screenshots/runner/00005-step-13.png",
+      "bytes": 503787
+    },
+    {
+      "path": "screenshots/runner/00006-step-15.png",
+      "bytes": 597364
+    },
+    {
+      "path": "screenshots/runner/00007-step-17.png",
+      "bytes": 597364
+    },
+    {
+      "path": "screenshots/runner/00008-step-19.png",
+      "bytes": 1425185
+    },
+    {
+      "path": "screenshots/runner/00009-step-24.png",
+      "bytes": 468030
+    }
+  ]
+}

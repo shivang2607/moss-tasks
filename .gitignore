@@ -1,0 +1,12 @@
+# Never publish project credentials or a copyrighted book.
+.env
+.env.*
+*credentials*.json
+*.pdf
+*book.txt
+__pycache__/
+.venv/
+# Convenience archive: source JSON/text files are committed instead.
+logs/tasks-logs.zip
+# Generated graph contains derived content from a copyrighted book.
+graphify-out/

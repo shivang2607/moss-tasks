@@ -1,0 +1,58 @@
+{
+  "id": "task_cab0189f6bd346bdad42733a0ce05bd8",
+  "object": "task",
+  "status": "completed",
+  "title": "Find System Design Interview Book",
+  "goal": "find me the content of system design interview book by alex Xu from the internet",
+  "environment": {
+    "type": "browser"
+  },
+  "output_schema": null,
+  "limits": {
+    "max_cost_usd": 2.0,
+    "max_runtime_seconds": 1800
+  },
+  "model": "moss-balanced",
+  "effort": "medium",
+  "metadata": null,
+  "byok": false,
+  "result": {
+    "output": null,
+    "output_text": "I found official online content for Alex Xu’s **System Design Interview**:\n\n- **[Contents of Volumes 1 and 2](https://blog.bytebytego.com/p/system-design-interview-books-volume)**, published by Alex Xu.\n- **[Read: Scale From Zero to Millions of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)**. Readable without signing in when checked.\n- **[Read: Design a Rate Limiter](https://bytebytego.com/courses/system-design-interview/design-a-rate-limiter)**. Also readable without signing in when checked.\n- **[Official online course](https://bytebytego.com/courses/system-design-interview)**. Some content requires payment: selecting “Stock Exchange” redirected to a pricing page displaying “Unlock Full Access.”\n\n**[Download the chapter lists and reading links](outputs/alex-xu-system-design-guide.md)**.\n\nThis is not the full text of the books. I did not establish a free, authorized download of the complete books."
+  },
+  "verification": {
+    "method": "agent_reported",
+    "passed": null
+  },
+  "usage": {
+    "cost": {
+      "model_usd": 0.162751,
+      "total_usd": 0.163418,
+      "browser_usd": 0.0006666666666666666,
+      "traffic_usd": null
+    },
+    "steps": 17,
+    "cost_usd": 0.162751,
+    "model_calls": 18,
+    "input_tokens": 331029,
+    "output_tokens": 3351,
+    "browser_minutes": 1.72,
+    "browser_seconds": 103,
+    "browser_traffic_mb": null,
+    "cached_input_tokens": 301701
+  },
+  "error": null,
+  "trace_available": true,
+  "video_available": true,
+  "video_state": "ready",
+  "live_url": null,
+  "cancel_requested": false,
+  "created_at": "2026-11-25T18:29:33.915950+00:00",
+  "started_at": "2026-11-25T18:29:33.933006+00:00",
+  "finished_at": "2026-11-25T18:31:18.731256+00:00",
+  "files_expire_at": "2026-12-02T18:31:18.731256+00:00",
+  "zero_data_retention": false,
+  "content_expires_at": null,
+  "content_deleted_at": null,
+  "webhook": null
+}
